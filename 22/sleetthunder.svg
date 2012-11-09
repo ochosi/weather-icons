@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="8.978075"
+     inkscape:cx="-1.0287486"
      inkscape:cy="9.9515956"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -38,8 +38,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1122"
      inkscape:window-height="800"
-     inkscape:window-x="1596"
-     inkscape:window-y="100"
+     inkscape:window-x="154"
+     inkscape:window-y="25"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -71,7 +71,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:#e5e5e5;fill-opacity:1;stroke:#bcbcbc;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#f8f8f8;fill-opacity:1;stroke:#bcbcbc;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 7.4810902,1045.8622 5.7905068,0 c 3.929008,0 7.240201,-3.5591 7.249357,-7.0176 0.0093,-3.5476 -2.403185,-6.9824 -7.227058,-6.9824 -4.8238712,0 -5.6721011,4.2128 -5.6721011,4.2128 -3.5300906,-1.2308 -6.3022075,1.5896 -6.1126192,4.7872 0.1799672,3.0353 2.5673112,5 5.9719145,5 z"
        id="path2985"
        inkscape:connector-curvature="0"

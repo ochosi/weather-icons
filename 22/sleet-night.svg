@@ -17,7 +17,7 @@
    inkscape:export-filename="/home/ochosi/moon_22.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="rain-night.svg">
+   sodipodi:docname="sleet-night.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -66,15 +66,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="15.15562"
+     inkscape:cx="1.0038343"
      inkscape:cy="8.8020863"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1174"
      inkscape:window-height="800"
-     inkscape:window-x="-274"
-     inkscape:window-y="46"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,7 +112,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:#e5e5e5;fill-opacity:1;stroke:#bcbcbc;stroke-width:0.9996801;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#f8f8f8;fill-opacity:1;stroke:#bcbcbc;stroke-width:0.99968009999999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 12.344972,1048.8624 3.7226,0 c 2.52588,0 4.65459,-2.2881 4.66047,-4.5115 0.006,-2.2807 -1.54496,-4.4889 -4.64613,-4.4889 -3.10118,0 -3.64649,2.7085 -3.64649,2.7085 -2.269425,-0.7915 -4.051566,1.0218 -3.929683,3.0775 0.115698,1.9514 1.650475,3.2144 3.839233,3.2144 z"
        id="path2985"
        inkscape:connector-curvature="0"
