@@ -18,7 +18,7 @@
    inkscape:export-filename="/home/ochosi/sun_22.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="partlycloud-night.svg">
+   sodipodi:docname="lightrain-night.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -85,9 +85,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
+     inkscape:zoom="11.2"
      inkscape:cx="9.5986941"
-     inkscape:cy="19.324105"
+     inkscape:cy="20.766269"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -114,7 +114,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -139,11 +139,6 @@
        d="m 15,1045.3622 2.12132,2.1214 0,0 0,0"
        style="fill:none;stroke:#ffb414;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       style="fill:none;stroke:#ffb414;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 2.8786,1047.4836 5,1045.3622 l 0,0 0,0"
-       id="path3769-7"
-       inkscape:connector-curvature="0" />
-    <path
        sodipodi:nodetypes="czzzczzc"
        inkscape:connector-curvature="0"
        id="path5249"
@@ -153,7 +148,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:#e5e5e5;fill-opacity:1;stroke:#bcbcbc;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 8.4810898,1049.8518 5.7905072,0 c 3.929008,0 7.240201,-3.5591 7.249357,-7.0176 0.0093,-3.5476 -2.403185,-6.9824 -7.227058,-6.9824 -4.8238712,0 -5.6721012,4.2128 -5.6721012,4.2128 -3.530091,-1.2308 -6.302208,1.5896 -6.112619,4.7872 0.179967,3.0353 2.567311,5 5.971914,5 z"
+       d="m 8.4810898,1049.8622 5.7905072,0 c 3.929008,0 7.240201,-3.5591 7.249357,-7.0176 0.0093,-3.5476 -2.403185,-6.9824 -7.227058,-6.9824 -4.8238712,0 -5.6721012,4.2128 -5.6721012,4.2128 -3.530091,-1.2308 -6.302208,1.5896 -6.112619,4.7872 0.179967,3.0353 2.567311,5 5.971914,5 z"
        id="path2985"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="scszcss" />
