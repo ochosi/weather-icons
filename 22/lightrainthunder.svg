@@ -17,7 +17,7 @@
    inkscape:export-filename="/home/ochosi/rain_22.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="rainthunder.svg">
+   sodipodi:docname="lightrainthunder.svg">
   <defs
      id="defs3768" />
   <sodipodi:namedview
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,11 +86,11 @@
        sodipodi:nodetypes="czzc"
        inkscape:connector-curvature="0"
        id="path4343-5"
-       d="m 6.182773,1039.3249 c 0,0 -2.650254,2.0346 -2.32268,3.0902 0.32759,1.0557 1.639398,1.3943 2.508072,0.7493 0.86868,-0.6451 -0.185392,-3.8395 -0.185392,-3.8395 z"
+       d="m 6.4353112,1038.9777 c 0,0 -2.650254,2.0346 -2.32268,3.0902 0.32759,1.0557 1.639398,1.3943 2.508072,0.7493 0.86868,-0.6451 -0.185392,-3.8395 -0.185392,-3.8395 z"
        style="fill:#afe0f2;fill-opacity:1;stroke:#67c3e6;stroke-width:0.83312428;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        style="fill:#afe0f2;fill-opacity:1;stroke:#67c3e6;stroke-width:0.83312428;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 8.1715108,1046.4275 c 0,0 -2.650254,2.0346 -2.32268,3.0902 0.32759,1.0557 1.639398,1.3943 2.508072,0.7493 0.86868,-0.6451 -0.185392,-3.8395 -0.185392,-3.8395 z"
+       d="m 7.6032999,1046.1749 c 0,0 -2.650254,2.0346 -2.32268,3.0902 0.32759,1.0557 1.639398,1.3943 2.508072,0.7493 0.86868,-0.6451 -0.185392,-3.8395 -0.185392,-3.8395 z"
        id="path2998"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzc" />

@@ -17,7 +17,7 @@
    inkscape:export-filename="/home/ochosi/snowsun-night_22.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="snowsunthunder-night.svg">
+   sodipodi:docname="snowthunder-night.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -132,65 +132,17 @@
        id="path2985"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="scszcss" />
-    <g
-       transform="translate(-8.0178571,1.9910776)"
-       id="g3786-1">
-      <g
-         transform="matrix(1.0646357,0,0,1.0646357,5.8068643,-62.800246)"
-         id="g3925-1"
-         style="opacity:0.65;stroke:#569796;stroke-width:1.50820708;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3927-4"
-           d="m 8.4665941,1041.3622 5.0668119,0"
-           style="fill:none;stroke:#569796;stroke-width:1.50820708;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3929-1"
-           d="m 9.3305422,1039.6928 3.3389158,3.3389"
-           style="fill:none;stroke:#569796;stroke-width:1.50820708;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           style="fill:none;stroke:#569796;stroke-width:1.50820708;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 9.3305406,1043.0317 3.3389184,-3.3389"
-           id="path3931-6"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;stroke:#569796;stroke-width:1.50820708;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 11,1043.8956 0,-5.0668"
-           id="path3933-9"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         style="stroke:#f3fbfb;stroke-opacity:1"
-         transform="translate(6.5178571,4.5089285)"
-         id="g3935-8">
-        <path
-           style="fill:none;stroke:#f3fbfb;stroke-width:0.96601677px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-           d="m 8.4665941,1041.3622 5.0668119,0"
-           id="path3937-7"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;stroke:#f3fbfb;stroke-width:0.66108471px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-           d="m 9.3305422,1039.6928 3.3389158,3.3389"
-           id="path3939-9"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3941-9"
-           d="m 9.3305406,1043.0317 3.3389184,-3.3389"
-           style="fill:none;stroke:#f3fbfb;stroke-width:0.66108131px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3943-4"
-           d="m 11,1043.8956 0,-5.0668"
-           style="fill:none;stroke:#f3fbfb;stroke-width:0.96601677px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      </g>
-    </g>
     <path
        style="fill:#ffff14;fill-opacity:1;stroke:#c1c138;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 15.5,1040.8622 4,0 -2,3 2,0 -5,8 1,-6 -2,0 z"
        id="path3034"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#afe0f2;fill-opacity:1;stroke:#67c3e6;stroke-width:0.83312428;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 10.814608,1046.5227 c 0,0 -2.650254,2.0346 -2.32268,3.0902 0.32759,1.0557 1.639398,1.3943 2.508072,0.7493 0.86868,-0.6451 -0.185392,-3.8395 -0.185392,-3.8395 z"
+       id="path2998"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc" />
   </g>
 </svg>
