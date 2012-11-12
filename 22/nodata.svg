@@ -76,7 +76,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.4"
-     inkscape:cx="9.0551948"
+     inkscape:cx="9.1444805"
      inkscape:cy="11.785714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -102,7 +102,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -119,17 +119,17 @@
        sodipodi:cy="13"
        sodipodi:rx="7"
        sodipodi:ry="7"
-       d="M 18,13 A 7,7 0 1 1 4,13 7,7 0 1 1 18,13 z"
+       d="m 18,13 c 0,3.865993 -3.134007,7 -7,7 -3.8659932,0 -7,-3.134007 -7,-7 0,-3.8659932 3.1340068,-7 7,-7 3.865993,0 7,3.1340068 7,7 z"
        transform="matrix(1.2,0,0,1.2,-2.2,1025.7622)" />
     <text
        sodipodi:linespacing="125%"
        id="text3799"
-       y="1047.3386"
+       y="1047.4777"
        x="7.8896484"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lekton;-inkscape-font-specification:Lekton;stroke-opacity:1;opacity:0.7"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lekton;-inkscape-font-specification:Lekton"
        xml:space="preserve"><tspan
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;stroke:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
-         y="1047.3386"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         y="1047.4777"
          x="7.8896484"
          id="tspan3801"
          sodipodi:role="line">?</tspan></text>
@@ -137,13 +137,13 @@
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Lekton;-inkscape-font-specification:Lekton"
        x="7.8896484"
-       y="1046.3387"
+       y="1046.4778"
        id="text3772"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3774"
          x="7.8896484"
-         y="1046.3387"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold;fill:#4d4d4d;fill-opacity:1">?</tspan></text>
+         y="1046.4778"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">?</tspan></text>
   </g>
 </svg>
