@@ -33,7 +33,7 @@
      inkscape:document-units="px"
      inkscape:window-width="1233"
      inkscape:window-height="902"
-     inkscape:window-x="550"
+     inkscape:window-x="445"
      inkscape:window-y="78"
      inkscape:window-maximized="0">
     <inkscape:grid
@@ -281,8 +281,8 @@
       </g>
     </g>
     <path
-       style="fill:#ffff14;fill-opacity:1;stroke:#c1c138;stroke-width:1.00002337;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 27.264942,17.500011 22.000012,32.5 l 4.940439,0 -1.857223,14.999988 11.003027,-20.999989 -4.88526,0 6.183046,-8.999988 z"
+       style="fill:#ffff14;fill-opacity:1;stroke:#c1c138;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 26.712001,23.499692 22.5,35.499846 l 3.952406,0 -1.4858,12.000154 8.802542,-16.800219 -3.908261,0 4.946504,-7.200089 z"
        id="path3754"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />

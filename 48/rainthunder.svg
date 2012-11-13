@@ -33,8 +33,8 @@
      inkscape:document-units="px"
      inkscape:window-width="1233"
      inkscape:window-height="902"
-     inkscape:window-x="472"
-     inkscape:window-y="84"
+     inkscape:window-x="242"
+     inkscape:window-y="89"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -64,16 +64,10 @@
        sodipodi:nodetypes="scszcss" />
     <path
        style="fill:#ffff14;fill-opacity:1;stroke:#c1c138;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 23.611242,20.600451 -4.212001,12.000154 3.952406,0 -1.4858,12.000154 8.802542,-16.800219 -3.908261,0 4.946504,-7.200089 z"
+       d="M 23.712001,20.499692 19.5,32.499846 l 3.952406,0 -1.4858,12.000154 8.802542,-16.800219 -3.908261,0 4.946504,-7.200089 z"
        id="path3754"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
-    <path
-       sodipodi:nodetypes="czzc"
-       inkscape:connector-curvature="0"
-       id="path4403"
-       d="m 34.582035,36.499963 c 0,0 -4.602209,3.418002 -4.033373,5.191331 0.568862,1.773611 2.846841,2.342416 4.35531,1.258987 1.508477,-1.08371 -0.321937,-6.450318 -0.321937,-6.450318 z"
-       style="fill:#37b1df;fill-opacity:1;stroke:#1d88b1;stroke-width:0.99992615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        style="fill:#37b1df;fill-opacity:1;stroke:#1d88b1;stroke-width:0.99987423;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 17.765649,36.499937 c 0,0 -3.681827,2.929748 -3.226752,4.44976 0.455098,1.520252 2.277512,2.007804 3.484307,1.079142 1.2068,-0.928902 -0.257555,-5.528902 -0.257555,-5.528902 z"
@@ -98,5 +92,11 @@
        id="path3759"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzc" />
+    <path
+       sodipodi:nodetypes="czzc"
+       inkscape:connector-curvature="0"
+       id="path2990"
+       d="m 33.765649,37.499937 c 0,0 -3.681827,2.929748 -3.226752,4.44976 0.455098,1.520252 2.277512,2.007804 3.484307,1.079142 1.2068,-0.928902 -0.257555,-5.528902 -0.257555,-5.528902 z"
+       style="fill:#37b1df;fill-opacity:1;stroke:#1d88b1;stroke-width:0.99987423;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>
